@@ -1,0 +1,36 @@
+body {
+    background-color: gray;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    background-color:green;
+}
+
+.box {
+    background-color: lightsalmon;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+}
+
+.blue_box {
+    background-color: lightskyblue;
+}
+
+.cyan_box {
+    background-color: cyan;
+}
+
+.light_green {
+    background-color: lightgreen;
+}
+
+.image {
+    width: 100%;
+    background-color: red;
+    padding: 50px 0;
+    text-align: center;
+    margin-top: 100%;
+}
